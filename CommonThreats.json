@@ -4,7 +4,7 @@
  [
  {
   "threadid": "1",
-  "threaduid": "<>",
+  "threaduid": "O05TWf5vuGxIOLym",
   "threattarget": "People",
   "threatname": "Credential Phishing",
   "threatdesc": "Credential phishing is a type of cyber attack where attackers masquerade as legitimate entities to trick individuals into divulging sensitive information such as usernames, passwords, or financial data.",
@@ -15,7 +15,7 @@
  },
  {
   "threadid": "2",
-  "threaduid":"<>",
+  "threaduid":"2vqD8aV4liZU2LT3",
   "threattarget": "Technology",
   "threatname": "DNS Tunneling",
   "threatdesc": "DNS tunneling is a technique used by attackers to bypass network security controls by encapsulating data within DNS queries and responses, allowing them to exfiltrate data or communicate with command-and-control servers covertly.",
@@ -26,7 +26,7 @@
  },
  {
   "threadid": "3",
-  "threaduid":"<>",
+  "threaduid":"tsMO7zqrCw7OzAPJ",
   "threattarget": "Technology",
   "threatname": "Cross-Site Request Forgery (CSRF)",
   "threatdesc": "Cross-Site Request Forgery (CSRF) attacks exploit the trust relationship between a user's browser and a web application to execute unauthorized actions on behalf of the user without their consent.",
@@ -37,7 +37,7 @@
  },
  {
   "threadid": "4",
-  "threaduid":"<>",
+  "threaduid":"CjCe8Izj5f0rJLeQ",
   "threattarget": "Technology",
   "threatname": "Data manipulation attacks",
   "threatdesc": " involve unauthorized alterations or modifications to data stored in databases, files, or application repositories, compromising data integrity and reliability.",

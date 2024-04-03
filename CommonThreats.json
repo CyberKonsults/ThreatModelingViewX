@@ -48,7 +48,7 @@
  },
  {
   "threadid": "5",
-  "threaduid":"<>",
+  "threaduid":"3ny0yhrgy1lr3e7h",
   "threattarget": "Technology",
   "threatname": "IoT firmware vulnerabilities",
   "threatdesc": "IoT firmware vulnerabilities refer to security flaws or weaknesses present in the firmware of Internet of Things (IoT) devices, which can be exploited by attackers to compromise device security or privacy.",
@@ -59,7 +59,7 @@
  },
  {
   "threadid": "6",
-  "threaduid":"<>",
+  "threaduid":"7uILk9I15CfHJNOy",
   "threattarget": "Technology",
   "threatname": "Side channel attacks",
   "threatdesc": "Side channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
@@ -70,7 +70,7 @@
  },
  {
   "threadid": "7",
-  "threaduid":"<>",
+  "threaduid":"BJZUpgbXTDr0DsyE",
   "threattarget": "Technology",
   "threatname": "SIM Swapping",
   "threatdesc": "SIM swapping, also known as SIM hijacking, is a social engineering technique used by attackers to fraudulently transfer a victim's phone number to a SIM card under the attacker's control, allowing them to intercept calls, SMS messages, or two- factor authentication (2FA) codes.",

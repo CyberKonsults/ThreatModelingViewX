@@ -5,7 +5,7 @@
  {
   "threadid": "1",
   "threaduid": "O05TWf5vuGxIOLym",
-  "threattarget": "People",
+"threattarget": {"Class": "People"},
   "threatname": "Credential Phishing",
   "threatdesc": "Credential phishing is a type of cyber attack where attackers masquerade as legitimate entities to trick individuals into divulging sensitive information such as usernames, passwords, or financial data.",
   "threatmitigation": [
@@ -16,7 +16,7 @@
  {
   "threadid": "2",
   "threaduid":"2vqD8aV4liZU2LT3",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "DNS Tunneling",
   "threatdesc": "DNS tunneling is a technique used by attackers to bypass network security controls by encapsulating data within DNS queries and responses, allowing them to exfiltrate data or communicate with command-and-control servers covertly.",
   "threatmitigation": [
@@ -27,7 +27,7 @@
  {
   "threadid": "3",
   "threaduid":"tsMO7zqrCw7OzAPJ",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Cross-Site Request Forgery (CSRF)",
   "threatdesc": "Cross-Site Request Forgery (CSRF) attacks exploit the trust relationship between a user's browser and a web application to execute unauthorized actions on behalf of the user without their consent.",
   "threatmitigation": [
@@ -38,7 +38,7 @@
  {
   "threadid": "4",
   "threaduid":"CjCe8Izj5f0rJLeQ",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Data manipulation attacks",
   "threatdesc": " involve unauthorized alterations or modifications to data stored in databases, files, or application repositories, compromising data integrity and reliability.",
   "threatmitigation": [
@@ -49,7 +49,7 @@
  {
   "threadid": "5",
   "threaduid":"3ny0yhrgy1lr3e7h",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "IoT firmware vulnerabilities",
   "threatdesc": "IoT firmware vulnerabilities refer to security flaws or weaknesses present in the firmware of Internet of Things (IoT) devices, which can be exploited by attackers to compromise device security or privacy.",
   "threatmitigation": [
@@ -60,7 +60,7 @@
  {
   "threadid": "6",
   "threaduid":"7uILk9I15CfHJNOy",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "Side channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -71,7 +71,7 @@
  {
   "threadid": "7",
   "threaduid":"BJZUpgbXTDr0DsyE",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "SIM Swapping",
   "threatdesc": "SIM swapping, also known as SIM hijacking, is a social engineering technique used by attackers to fraudulently transfer a victim's phone number to a SIM card under the attacker's control, allowing them to intercept calls, SMS messages, or two- factor authentication (2FA) codes.",
   "threatmitigation": [
@@ -80,8 +80,8 @@
  },
  {
   "threadid": "8",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"UcUc7O96tJuTsGVV",
+ "threattarget": {"Class": "People"},
   "threatname": "Ransomware",
   "threatdesc": "Ransomware is a type of malware that encrypts files or locks users out of their systems, demanding payment (usually in cryptocurrency) for decryption or restoration of access.",
   "threatmitigation": [
@@ -91,8 +91,8 @@
  },
  {
   "threadid": "9",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"cDp7LvjnvwkXJDUD",
+ "threattarget": {"Class": "People"},
   "threatname": "Phishing Attacks",
   "threatdesc": "Phishing attacks involve fraudulent attempts to obtain sensitive information such as usernames, passwords, and financial details by posing as a trustworthy entity.",
   "threatmitigation": [
@@ -102,8 +102,8 @@
  },
  {
   "threadid": "10",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"EEnfP6TUm7lWvO1K",
+ "threattarget": {"Class": "People"},
   "threatname": "Distributed Denial of Service (DDoS) Attacks",
   "threatdesc": "DDoS attacks overwhelm a targeted system or network with a flood of traffic, disrupting normal operation and causing downtime. Attackers utilize botnets or other means to generate massive amounts of traffic, exhausting the target's resources.",
   "threatmitigation": [
@@ -113,8 +113,8 @@
  },
  {
   "threadid": "11",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"QXknU3iNg7nB9ZtZ",
+ "threattarget": {"Class": "People"},
   "threatname": "Insider Threats",
   "threatdesc": "Insider threats involve malicious or negligent actions by individuals within an organization, posing risks to data security and integrity. Employees, contractors, or partners may intentionally or unintentionally compromise sensitive information or systems.",
   "threatmitigation": [
@@ -125,8 +125,8 @@
  },
  {
   "threadid": "12",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"7wHQEPrTp8d4PZ3t",
+ "threattarget": {"Class": "People"},
   "threatname": "Zero-Day Exploits",
   "threatdesc": "Zero-day exploits target previously unknown vulnerabilities in software or hardware, giving attackers the advantage of exploiting systems before a patch is available. Attackers discover and exploit vulnerabilities before developers can release patches or updates to fix them.",
   "threatmitigation": [
@@ -137,8 +137,8 @@
  },
  {
   "threadid": "13",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"uhUdUriPYNQKefI7",
+ "threattarget": {"Class": "People"},
   "threatname": "Data Breaches",
   "threatdesc": "Data breaches involve unauthorized access to sensitive or confidential information, potentially exposing individuals' personal data or intellectual property. Weak security measures, insider threats, or targeted attacks can lead to unauthorized access and exfiltration of data.",
   "threatmitigation": [
@@ -149,8 +149,8 @@
  },
  {
   "threadid": "14",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"6GWNmpkG54gmmKdy",
+ "threattarget": {"Class": "People"},
   "threatname": "Malware",
   "threatdesc": "Malware encompasses various types of malicious software designed to disrupt, damage, or gain unauthorized access to computer systems or networks. Malware can be introduced through infected files, malicious websites, or vulnerabilities in software or operating systems.",
   "threatmitigation": [
@@ -161,8 +161,8 @@
  },
  {
   "threadid": "15",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"ylLHVYo4i3qjC6OJ",
+ "threattarget": {"Class": "People"},
   "threatname": "Advanced Persistent Threats (APTs)",
   "threatdesc": "APTs are sophisticated, long-term cyber attacks orchestrated by skilled adversaries to infiltrate and maintain unauthorized access to targeted networks or systems.",
   "threatmitigation": [
@@ -173,8 +173,8 @@
  },
  {
   "threadid": "16",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"c4jv1f01lufw0mpf",
+ "threattarget": {"Class": "People"},
   "threatname": "Supply Chain Attacks",
   "threatdesc": "Supply chain attacks target the software supply chain, exploiting vulnerabilities in third-party software or services to compromise the systems of end users or organizations",
   "threatmitigation": [
@@ -185,8 +185,8 @@
  },
  {
   "threadid": "17",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"vi6AtPystc7xpFDQ",
+ "threattarget": {"Class": "People"},
   "threatname": "Cryptojacking",
   "threatdesc": "Cryptojacking involves the unauthorized use of someone else's computing resources to mine cryptocurrency, often done by infecting computers or websites with malware.",
   "threatmitigation": [
@@ -197,8 +197,8 @@
  },
  {
   "threadid": "18",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"j1tNUuRuoFa0n7dX",
+ "threattarget": {"Class": "People"},
   "threatname": "Man-in-the-Middle (MitM) Attacks",
   "threatdesc": "MitM attacks involve intercepting communication between two parties to eavesdrop, manipulate, or impersonate either party, compromising the confidentiality and integrity of data.",
   "threatmitigation": [
@@ -209,8 +209,8 @@
  },
  {
   "threadid": "19",
-  "threaduid":"<>",
-  "threattarget": "People",
+  "threaduid":"P26aZGlYmsQ44hBd",
+"threattarget": {"Class": "People"},
   "threatname": "Social Engineering Attacks",
   "threatdesc": "Social engineering attacks exploit human psychology to manipulate individuals into divulging confidential information, providing access to systems, or performing actions beneficial to the attacker.",
   "threatmitigation": [
@@ -220,8 +220,8 @@
  },
  {
   "threadid": "20",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"oUvuzjtaELKPtTEx",
+ "threattarget": {"Class": "People"},
   "threatname": "Fileless Malware",
   "threatdesc": "Fileless malware operates in memory without leaving traces on disk, making it difficult to detect using traditional antivirus or anti-malware solutions. Attackers exploit vulnerabilities in legitimate software to execute malicious code directly in memory, bypassing file-based detection methods.",
   "threatmitigation": [
@@ -232,8 +232,8 @@
  },
  {
   "threadid": "21",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"2ZiiP8SjuoC5Tcpn",
+ "threattarget": {"Class": "People"},
   "threatname": "IoT Botnets",
   "threatdesc": "IoT botnets consist of compromised IoT devices infected with malware and controlled by a central command-and-control (C&C) server to orchestrate large-scale attacks, such as DDoS attacks.",
   "threatmitigation": [
@@ -244,8 +244,8 @@
  },
  {
   "threadid": "22",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"lrHgI6yVglMzzjiN",
+ "threattarget": {"Class": "People"},
   "threatname": "Cross-Site Scripting (XSS) Attacks",
   "threatdesc": "XSS attacks involve injecting malicious scripts into web pages viewed by other users, allowing attackers to execute scripts in the context of their victims' browsers.",
   "threatmitigation": [
@@ -256,8 +256,8 @@
  },
  {
   "threadid": "23",
-  "threaduid":"<>",
-  "threattarget": "People",
+  "threaduid":"xgnJAqnZhfnErZdQ",
+"threattarget": {"Class": "People"},
   "threatname": "Identity Theft",
   "threatdesc": "Identity theft involves the unauthorized use of someone else's personal or financial information to impersonate them or commit fraudulent activities.",
   "threatmitigation": [
@@ -268,8 +268,8 @@
  },
  {
   "threadid": "24",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"5ut1VyNz4uKSqYdO",
+ "threattarget": {"Class": "People"},
   "threatname": "Data Leakage",
   "threatdesc": "Data leakage occurs when sensitive or confidential information is unintentionally or maliciously disclosed to unauthorized parties, compromising data privacy and integrity.",
   "threatmitigation": [
@@ -280,8 +280,8 @@
  },
  {
   "threadid": "25",
-  "threaduid":"<>",
-  "threattarget": "People",
+  "threaduid":"9OJRmDypZ6lfaKPV",
+"threattarget": {"Class": "People"},
   "threatname": "Business Email Compromise (BEC)",
   "threatdesc": "BEC attacks target organizations to deceive employees into transferring funds, disclosing sensitive information, or performing actions beneficial to the attacker by impersonating executives or trusted entities.",
   "threatmitigation": [
@@ -291,8 +291,8 @@
  },
  {
   "threadid": "26",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"2ViInjinIZpQ7mXH",
+ "threattarget": {"Class": "People"},
   "threatname": "Mobile Malware",
   "threatdesc": "Mobile malware refers to malicious software specifically designed to target mobile devices, such as smartphones and tablets, compromising their security and privacy.",
   "threatmitigation": [
@@ -303,8 +303,8 @@
  },
  {
   "threadid": "27",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"KIGZTDWBTR7SZ2d3",
+ "threattarget": {"Class": "People"},
   "threatname": "AI-Powered Cyber Attacks",
   "threatdesc": "AI-powered cyber attacks leverage AI and ML algorithms to automate and enhance the capabilities of traditional cyber attacks, making them more sophisticated and evasive.",
   "threatmitigation": [
@@ -315,8 +315,8 @@
  },
  {
   "threadid": "28",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"c5vRBk1xlNvl1GAm",
+ "threattarget": {"Class": "People"},
   "threatname": "DNS hijacking",
   "threatdesc": "DNS hijacking involves redirecting DNS queries to malicious servers controlled by attackers, enabling them to intercept and manipulate internet traffic, redirect users to phishing sites, or launch other malicious activities.",
   "threatmitigation": [
@@ -327,8 +327,8 @@
  },
  {
   "threadid": "29",
-  "threaduid":"<>",
-  "threattarget": "Technology",
+  "threaduid":"pOGpSuMpY3xBhfpn",
+   "threattarget": {"Class": "People"},
   "threatname": "Physical Attacks on Infrastructure",
   "threatdesc": "Physical attacks on infrastructure involve sabotaging or damaging critical systems, facilities, or equipment through physical means, such as vandalism, theft, or tampering.",
   "threatmitigation": [
@@ -338,8 +338,131 @@
  },
  {
   "threadid": "30",
+  "threaduid":"JKuu4LQ1vc3znmHU",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "Cyber Espionage",
+  "threatdesc": "Cyber Espionage",
+  "threatmitigation": [
+  {"mitigation": "Implement robust network security measures, such as encryption, intrusion detection systems, and data loss prevention solutions, to protect sensitive information from unauthorized access."},
+  {"mitigation": "Monitor network traffic and user activity for indicators of compromise (IOCs) associated with cyber espionage activities, such as reconnaissance, data exfiltration, or lateral movement."}
+  ]
+ },
+ {
+  "threadid": "31",
+  "threaduid":"lagJVCXe6mIpIVDq",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "AI-Powered Deepfakes",
+  "threatdesc": "AI-powered deepfakes use artificial intelligence algorithms to generate highly realistic fake images, videos, or audio recordings, often used for disinformation, fraud, or blackmail purposes.",
+  "threatmitigation": [
+  {"mitigation": "Develop and deploy AI-based detection tools and algorithms to identify and mitigate deepfake content across various online platforms and communication channels."},
+  {"mitigation": "Educate the public about the existence and potential dangers of deepfake technology to raise awareness and critical thinking skills."},
+  {"mitigation": "Collaborate with technology companies, research institutions, to establish standards and regulations for the responsible use of deepfake technology and combat its misuse."}
+  ]
+ },
+ {
+  "threadid": "32",
+  "threaduid":"EKaag4CnmF3Y8QAF",
+   "threattarget": {"Class": "Technology"},
+  "threatname": "File Encryption Trojans",
+  "threatdesc": "File encryption trojans, also known as cryptoransomware, encrypt files on a victim's system and demand a ransom payment in exchange for the decryption key, extorting money from individuals or organizations.",
+  "threatmitigation": [
+  {"mitigation": "Implement robust backup and recovery procedures to regularly backup critical data and restore systems without paying ransom in the event of a cryptoransomware attack."},
+  {"mitigation": "Use endpoint security solutions, such as antivirus software and intrusion detection systems, to detect and block file encryption trojans before they can encrypt files."}
+  ]
+ },
+ {
+  "threadid": "33",
+  "threaduid":"bvorGvOJU6bqeyKV",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Credential Stuffing Attacks",
+  "threatdesc": "Credential stuffing attacks involve using large sets of stolen usernames and passwords to gain unauthorized access to user accounts across various online services and platforms, exploiting password reuse and weak authentication practices.",
+  "threatmitigation": [
+  {"mitigation": "Enforce strong password policies and encourage users to use unique, complex passwords for each online account to mitigate the impact of credential stuffing attacks."},
+  {"mitigation": "Implement multi-factor authentication (MFA) mechanisms, such as SMS codes, authenticator apps, or biometric authentication, to add an extra layer of security and prevent unauthorized access to accounts."}
+  ]
+ },
+ {
+  "threadid": "34",
+  "threaduid":"ae4NHTK1dxpaR4Vn",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Bluetooth Impersonation Attacks",
+  "threatdesc": "Bluetooth impersonation attacks involve impersonating legitimate Bluetooth devices to establish unauthorized connections and gain access to target systems or services.",
+  "threatmitigation": [
+  {"mitigation": "Keep Bluetooth-enabled devices updated with the latest firmware and security patches."},
+  {"mitigation": "Disable unnecessary Bluetooth services and configure devices to require manual approval for pairing."},
+  {"mitigation": "Monitor Bluetooth traffic and employ intrusion detection systems to detect and mitigate impersonation attacks."}
+  ]
+ },
+ {
+  "threadid": "35",
+  "threaduid":"E2VmRGkwfzwW6t3N",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "USB-Based Attacks",
+  "threatdesc": "USB-based attacks involve exploiting vulnerabilities in USB devices or ports to infect computers, steal sensitive information, or deliver malware payloads, exploiting the convenience and ubiquity of USB technology.",
+  "threatmitigation": [
+  {"mitigation": "Disable autorun and autoplay features on computers and devices to prevent automatic execution of malicious code when USB devices are connected."},
+  {"mitigation": "se endpoint security solutions, such as antivirus software and intrusion detection systems, to scan USB devices for malware and block malicious activities."}
+  ]
+ },
+ {
+  "threadid": "36",
+  "threaduid":"BGtInBqvWmeSq2ID",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Formjacking Attacks",
+  "threatdesc": "Formjacking attacks involve injecting malicious code into e-commerce websites to steal payment card details entered by users during online transactions, compromising their financial information.",
+  "threatmitigation": [
+  {"mitigation": "Implement web application firewalls (WAFs) to detect and block formjacking attempts by filtering malicious requests and scripts."},
+  {"mitigation": "Encrypt sensitive data, such as payment card details, during transmission to prevent interception by attackers conducting formjacking attacks."}
+  ]
+ },
+ {
+  "threadid": "37",
+  "threaduid":"39EMcUFjbwqAQlcv",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "Watering Hole Attacks",
+  "threatdesc": "Watering hole attacks involve compromising legitimate websites frequented by targeted individuals or organizations and injecting malicious code to infect visitors' devices with malware, exploiting trust and familiarity.",
+  "threatmitigation": [
+  {"mitigation": "Use web content filtering and reputation-based security solutions to block access to known malicious websites and prevent users from inadvertently visiting compromised sites."},
+  {"mitigation": "Implement browser isolation or sandboxing techniques to contain and mitigate the impact of potential malware infections resulting from watering hole attacks."}
+  ]
+ },
+ {
+  "threadid": "38",
+  "threaduid":"d2NkspJDQ1dynkJy",
+  "threattarget": {"Class": "People"},
+  "threatname": "Supply Chain Compromise",
+  "threatdesc": "Supply chain compromise involves infiltrating and tampering with the software supply chain, infecting legitimate software or components distributed to end users with malware or backdoors, compromising their security.",
+  "threatmitigation": [
+  {"mitigation": "Vet and verify the security practices of software vendors and third-party suppliers to ensure the integrity and trustworthiness of software and components integrated into the supply chain."},
+  {"mitigation": "Implement code signing and digital certificates to verify the authenticity and integrity of software updates and components distributed through the supply chain."}
+  ]
+ },
+ {
+  "threadid": "39",
+  "threaduid":"IiR53H1N1mEWJPaU",
+ "threattarget": {"Class": "People"},
+  "threatname": "Voice Phishing (Vishing)",
+  "threatdesc": "Voice phishing (vishing) attacks involve using phone calls or voice messages to deceive individuals into disclosing sensitive information, such as passwords, personal identification numbers (PINs), or financial details, over the phone.",
+  "threatmitigation": [
+  {"mitigation": "Implement caller ID authentication and verification mechanisms to validate the identity of callers and detect spoofed or fraudulent phone numbers used in vishing attacks."},
+  {"mitigation": "Encourage individuals to verify the legitimacy of unexpected or suspicious calls by contacting the organization or individual directly through official channels before disclosing sensitive information."}
+  ]
+ },
+ {
+  "threadid": "40",
+  "threaduid":"g5a7FS1ucE8oYBQS",
+ "threattarget": {"Class": "People"},
+  "threatname": "Deep Packet Inspection (DPI) Evasion",
+  "threatdesc": "Deep Packet Inspection (DPI) evasion techniques involve circumventing network security measures, such as firewalls or intrusion detection/prevention systems, by obfuscating or encrypting malicious traffic to evade detection.",
+  "threatmitigation": [
+  {"mitigation": "Deploy advanced threat detection and analysis tools capable of decrypting and inspecting encrypted traffic for signs of malicious activity while maintaining privacy and compliance with data protection regulations."},
+  {"mitigation": "Implement network segmentation and access controls to restrict the flow of traffic between network segments and prevent lateral movement by attackers."}
+  ]
+ },
+ {
+  "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -351,7 +474,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -363,7 +486,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -375,150 +498,18 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
   {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
-  {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."},
-  {"mitigation": "Use digital certificates & mutual authentication to verify the identity of communicating parties and detect potential MitM attacks."}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
-  "threattarget": "Technology",
-  "threatname": "Side channel attacks",
-  "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
-  "threatmitigation": [
-  {"mitigation": "Implement countermeasures such as constant- time algorithms, algorithmic masking, or cryptographic blinding to mitigate side channel vulnerabilities and prevent attackers from exploiting timing, power, or electromagnetic side channels to extract sensitive data."},
   {"mitigation": "Employ hardware-based security mechanisms, such as TEEs, HSMs, or secure enclaves, to isolate sensitive computations and cryptographic operations from side channel attacks."}
   ]
  },
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -529,7 +520,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -540,7 +531,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -551,7 +542,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -562,7 +553,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -573,7 +564,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -584,7 +575,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -595,7 +586,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -606,7 +597,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -617,7 +608,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -628,7 +619,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -639,7 +630,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -650,7 +641,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -661,7 +652,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -672,7 +663,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -683,7 +674,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -694,7 +685,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -705,7 +696,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -716,7 +707,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -727,7 +718,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -738,7 +729,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -749,7 +740,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -760,7 +751,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -771,7 +762,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -782,7 +773,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -793,7 +784,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -804,7 +795,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -815,7 +806,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -826,7 +817,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -837,7 +828,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -848,7 +839,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -859,7 +850,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -870,7 +861,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -881,7 +872,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -892,7 +883,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -903,7 +894,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -914,7 +905,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -925,7 +916,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -936,7 +927,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -947,7 +938,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -958,7 +949,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -969,7 +960,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -980,7 +971,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -991,7 +982,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1002,7 +993,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1013,7 +1004,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1024,7 +1015,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1035,7 +1026,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1046,7 +1037,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1057,7 +1048,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1068,7 +1059,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1079,7 +1070,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1090,7 +1081,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1101,7 +1092,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1112,7 +1103,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1123,7 +1114,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1134,7 +1125,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1145,7 +1136,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1156,7 +1147,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1167,7 +1158,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1178,7 +1169,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1189,7 +1180,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1200,7 +1191,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1211,7 +1202,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1222,7 +1213,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -1233,7 +1224,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": "Technology",
+ "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "SSide channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [

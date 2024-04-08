@@ -591,7 +591,7 @@
  {
   "threadid": "53",
   "threaduid":"wSxEylwSqSq3yx9n",
-  "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "Technology"},
   "threatname": "Logic Bombs",
   "threatdesc": "Logic bombs are malicious code snippets or software components embedded within legitimate applications, scripts, or systems, programmed to execute a destructive action or trigger a malicious payload when specific conditions or triggers are met.",
   "threatmitigation": [
@@ -601,7 +601,7 @@
  {
   "threadid": "54",
   "threaduid":"S4glQPUWbHuYNIPD",
-  "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "Technology"},
   "threatname": "File Encryption Ransomware",
   "threatdesc": "File encryption ransomware is a type of malicious software that encrypts files or entire systems, rendering them inaccessible to users until a ransom is paid to the attackers, who promise to provide the decryption key upon payment. ",
   "threatmitigation": [
@@ -611,7 +611,7 @@
  {
   "threadid": "55",
   "threaduid":"0bdJ9QebEtDCkokQ",
-  "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "Technology"},
   "threatname": "Biometric Spoofing",
   "threatdesc": "Biometric spoofing, also known as biometric presentation attacks, involves the use of fake biometric data, such as fingerprints, facial images, or iris scans, to deceive biometric authentication systems and gain unauthorized access to secured devices, applications, or facilities.",
   "threatmitigation": [
@@ -621,7 +621,7 @@
  {
   "threadid": "56",
   "threaduid":"z9QHlbIXTdQLy6f7",
-  "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "Technology"},
   "threatname": "Eavesdropping (Passive Surveillance)",
   "threatdesc": "Eavesdropping, also known as passive surveillance, involves unauthorized interception and monitoring of communications, such as network traffic, phone calls, or wireless transmissions, with the aim of gathering sensitive information or intelligence without the knowledge or consent of the parties involved.",
   "threatmitigation": [
@@ -630,12 +630,248 @@
  },
  {
   "threadid": "57",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threaduid":"CWfXct8oOwzuwzoP",
+  "threattarget": {"Class": "People"},
+  "threatname": "Voice Assistant Exploitation",
+  "threatdesc": "Voice assistant exploitation refers to cyber attacks targeting voice-activated virtual assistants, such as Amazon Alexa, Google Assistant, or Apple Siri, to manipulate devices, extract sensitive information, or compromise user privacy through voice commands or audio interactions.",
+  "threatmitigation": [
+  {"mitigation": "Secure voice assistant devices with strong authentication mechanisms, voice recognition training, and privacy settings to prevent unauthorized access, restrict voice commands, and enhance user control over voice assistant interactions and data sharing."}
+  ]
+ },
+ {
+  "threadid": "58",
+  "threaduid":"XniYHFav0zrlbA5D",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Malvertising (Malicious Advertising)",
+  "threatdesc": "Malvertising, short for malicious advertising, involves the distribution of malicious code, exploit kits, or phishing scams through online advertisements displayed on legitimate websites, exploiting vulnerabilities in ad networks, ad exchanges, or web browsers to compromise visitor devices.",
+  "threatmitigation": [
+  {"mitigation": "Deploy ad-blocking software, browser extensions, or network-level filtering solutions to block malicious ads, prevent drive-by downloads, and mitigate the risk of malvertising infections when visiting websites with potentially compromised advertising content."}
+  ]
+ },
+ {
+  "threadid": "59",
+  "threaduid":"L74aj7HYL91r1Hzd",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "5G Network Vulnerabilities",
+  "threatdesc": "5G network vulnerabilities refer to security weaknesses, risks, or exposures inherent in 5th generation cellular networks, including infrastructure components, protocols, or deployment architectures, which adversaries may exploit to launch cyber attacks, intercept communications, or compromise network integrity.",
+  "threatmitigation": [
+  {"mitigation": "Enhance 5G network security through encryption, authentication, and access control mechanisms, leveraging technologies such as 5G-AKA (Authentication and Key Agreement), network slicing isolation, and secure virtualized infrastructure"}
+  ]
+ },
+ {
+  "threadid": "60",
+  "threaduid":"ScRsKWIRlrZeklOF",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Credential Theft via Keylogging",
+  "threatdesc": "Credential theft via keylogging involves capturing and recording user keystrokes, login credentials, or sensitive information entered via keyboards, virtual keyboards, or touchscreen interfaces, compromising user privacy and security.",
+  "threatmitigation": [
+  {"mitigation": "Deploy endpoint security solutions, anti- malware tools, and intrusion detection systems capable of detecting and blocking keylogging activities, preventing the installation or execution of keyloggers on compromised systems."}
+  ]
+ },
+ {
+  "threadid": "61",
+  "threaduid":"kUiPImhS01y7q27s",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Backdoor Attacks",
+  "threatdesc": "Backdoor attacks involve the insertion of unauthorized access points into software, systems, or networks, enabling attackers to bypass security controls and gain persistent access for malicious purposes.",
+  "threatmitigation": [
+  {"mitigation": "Conduct regular security assessments, code reviews, and vulnerability scans to identify and remove backdoors from software or systems before deployment."},
+  {"mitigation": "Implement network segmentation, intrusion detection/prevention systems (IDS/IPS), and endpoint protection measures to detect and block unauthorized access attempts through backdoors."}
+  ]
+ },
+ {
+  "threadid": "62",
+  "threaduid":"Hzqagsd5pYB6BeeG",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Smart Contract Vulnerabilities",
+  "threatdesc": "Smart contract vulnerabilities are weaknesses or flaws in blockchain-based smart contracts, allowing attackers to exploit coding errors, logic flaws, or design weaknesses to steal cryptocurrency, manipulate transactions, or disrupt operations.",
+  "threatmitigation": [
+  {"mitigation": "Conduct thorough code reviews, static analysis, and formal verification of smart contracts to identify and remediate vulnerabilities before deployment on blockchain networks."},
+  {"mitigation": "Utilize security best practices and design patterns for smart contract development, including input validation, access controls, and fail-safe mechanisms."}
+  ]
+ },
+ {
+  "threadid": "63",
+  "threaduid":"r8cXcieFjL3kQkFl",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Typosquatting  Attacks",
+  "threatdesc": "Typosquatting attacks involve registering domain names similar to legitimate websites or brands but containing typographical errors or misspellings, with the intent to deceive users and exploit their mistakes for malicious purposes.",
+  "threatmitigation": [
+  {"mitigation": "Educate users about the risks of typosquatting attacks, advising them to double-check URLs, verify website authenticity, and avoid clicking on suspicious links or visiting unfamiliar domains to minimize the likelihood of falling victim to such attacks."}
+  ]
+ },
+ {
+  "threadid": "64",
+  "threaduid":"BYPF5iunTRmxef7U",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Zero-Click Exploits",
+  "threatdesc": "Zero-click exploits are cyber attacks that require no user interaction or engagement to compromise a target device or system, exploiting vulnerabilities in software, protocols, or hardware components to execute arbitrary code or gain unauthorized access silently. ",
+  "threatmitigation": [
+  {"mitigation": "Utilize exploit prevention mechanisms, such as address space layout randomization (ASLR), data execution prevention (DEP), or control- flow integrity (CFI), to thwart memory-based attacks and disrupt exploit chains used in zero- click exploitation techniques."}
+  ]
+ },
+ {
+  "threadid": "65",
+  "threaduid":"bQafhSKhfwrkSLdd",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Rogue Software",
+  "threatdesc": "Rogue software, also known as scareware or fake antivirus, refers to malicious software or applications that masquerade as legitimate security tools or utilities, deceiving users into purchasing unnecessary software licenses or providing sensitive information. ",
+  "threatmitigation": [
+  {"mitigation": "Educate users about common tactics used by rogue software, advising them to verify the authenticity of security alerts, avoid downloading software from untrusted sources, and conduct research before purchasing or installing security products."}
+  ]
+ },
+ {
+  "threadid": "66",
+  "threaduid":"AUQn1PLbwQ6m3HcO",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "USB Rubber Ducky Attacks",
+  "threatdesc": "USB Rubber Ducky attacks involve the use of specially crafted USB devices, such as keystroke injection tools or HID (Human Interface Device) emulators, to mimic keyboard input and execute malicious commands or payloads on target systems.",
+  "threatmitigation": [
+  {"mitigation": "Implement endpoint security policies to disable auto-run functionality, restrict USB device access, and enforce device whitelisting to prevent unauthorized USB Rubber Ducky devices from executing malicious payloads on endpoint systems."}
+  ]
+ },
+ {
+  "threadid": "67",
+  "threaduid":"89G0P7pxyBNkO7NX",
+  "threattarget": {"Class": "People"},
+  "threatname": "Remote Code Execution (RCE) Vulnerabilities",
+  "threatdesc": "Remote Code Execution (RCE) vulnerabilities allow attackers to execute arbitrary code or commands on target systems remotely, often resulting from security flaws in software applications, web servers, or network protocols that enable unauthorized code execution.",
+  "threatmitigation": [
+    {"mitigation": "Apply security patches, updates, and software fixes promptly to address known RCE vulnerabilities and prevent attackers from exploiting security flaws to execute arbitrary code or commands on vulnerable systems."}
+  ]
+ },
+ {
+  "threadid": "68",
+  "threaduid":"f8odbBrBO8iY1zCv",
+ "threattarget": {"Class": "Technology"},
+  "threatname": "Router Exploitation",
+  "threatdesc": "Router exploitation involves the compromise of network routers, gateways, or access points by attackers to gain unauthorized access, intercept traffic, or launch various types of cyber attacks targeting connected devices and users.",
+  "threatmitigation": [
+  {"mitigation": "Update router firmware regularly, apply security patches, and change default passwords to mitigate known vulnerabilities and strengthen the security posture of network infrastructure against router exploitation."},
+  {"mitigation": "Configure router settings securely, disable unnecessary services, enable firewall protection, and implement strong authentication mechanisms."}
+  ]
+ },
+ {
+  "threadid": "69",
+  "threaduid":"FKBqJnMlxncnPN9a",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Bluetooth Attacks",
+  "threatdesc": "Bluetooth attacks exploit vulnerabilities in Bluetooth-enabled devices, such as smartphones, laptops, or IoT devices, to gain unauthorized access, steal data, or compromise device functionality through wireless communication channels. ",
+  "threatmitigation": [
+  {"mitigation": "Keep Bluetooth-enabled devices updated with the latest firmware and security patches to mitigate known vulnerabilities and strengthen Bluetooth security against exploitation by attackers."},
+  {"mitigation": "Disable Bluetooth functionality when not in use, enable Bluetooth visibility settings judiciously, and avoid pairing with unknown or untrusted devices."}
+  ]
+ },
+ {
+  "threadid": "70",
+  "threaduid":"o7PKgiVygofOZKEY",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Data Interception (Data-in-Transit Attacks)",
+  "threatdesc": "Data interception, also known as data-in-transit attacks, involves the unauthorized interception, eavesdropping, or monitoring of data as it travels across networks, communication channels, or wireless connections, potentially exposing sensitive information to unauthorized parties.",
+  "threatmitigation": [
+  {"mitigation": "Encrypt data transmissions using strong encryption protocols, such as SSL/TLS for web traffic, IPsec for VPN connections, or end-to- end encryption for messaging applications, to protect data confidentiality and integrity against interception or eavesdropping by attackers."}
+  ]
+ },
+ {
+  "threadid": "71",
+  "threaduid":"p3mOrTCkg6FfWdXH",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Virtual Private Network (VPN) Exploitation",
+  "threatdesc": "VPN exploitation involves exploiting vulnerabilities in VPN services or protocols to bypass network security controls, intercept encrypted traffic, or compromise VPN endpoints for unauthorized access or data exfiltration. ",
+  "threatmitigation": [
+  {"mitigation": "Implement multi-factor authentication (MFA), certificate-based authentication, or strong pre- shared keys (PSKs) to enhance VPN security, prevent unauthorized access, and mitigate the risk of VPN exploitation by adversaries."},
+  {"mitigation": "Keep VPN software and firmware updated with the latest security patches and configurations to mitigate known vulnerabilities"}
+  ]
+ },
+ {
+  "threadid": "72",
+  "threaduid":"pixWMiLZEnZ25cWP",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Malware-as-a-Service (MaaS)",
+  "threatdesc": "Malware-as-a-Service (MaaS) refers to the commercialization of malware, where cybercriminals offer malicious software, tools, or services for sale or rent to other malicious actors, enabling them to launch cyber attacks without the need for technical expertise or infrastructure.",
+  "threatmitigation": [
+  {"mitigation": "Enhance threat intelligence sharing, collaboration with law enforcement agencies, and public-private partnerships to disrupt and dismantle MaaS operations, identify and apprehend MaaS providers, and mitigate the proliferation of malware-as-a-service offerings in the cybercriminal underground."}
+  ]
+ },
+ {
+  "threadid": "73",
+  "threaduid":"Hd9dRorZWqWGtL9t",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Browser Extension Vulnerabilities",
+  "threatdesc": "Browser extension vulnerabilities are security weaknesses in third-party browser extensions that can be exploited by attackers to compromise browser security and execute arbitrary code.",
+  "threatmitigation": [
+  {"mitigation": "Regularly update browser extensions with the latest security patches."},
+  {"mitigation": "Limit the use of browser extensions to trusted sources and review extension permissions before installation."},
+  {"mitigation": "Implement browser isolation techniques to contain the impact of compromised extensions."}
+  ]
+ },
+ {
+  "threadid": "74",
+  "threaduid":"tOuRaJYrdtK7YDrK",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Cache Poisoning",
+  "threatdesc": "Cache poisoning is a cyber attack where attackers inject false data into a cache to compromise the integrity of cached information or redirect users to malicious websites.",
+  "threatmitigation": [
+  {"mitigation": "Implement proper input validation and sanitization to prevent injection of malicious content into cache systems."},
+  {"mitigation": "Use cryptographic hashing and integrity checks to verify the authenticity and integrity of cached data."},
+  {"mitigation": "Regularly monitor cache contents for anomalies and unexpected changes."}
+  ]
+ },
+ {
+  "threadid": "75",
+  "threaduid":"frsBUzlsDTS2A9e9",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "Caller ID Spoofing",
+  "threatdesc": "Caller ID spoofing is a technique used by attackers to falsify the caller ID information displayed on a recipient's phone, often to deceive or defraud individuals.",
+  "threatmitigation": [
+  {"mitigation": "Implement caller authentication mechanisms such as STIR/SHAKEN protocols to verify the authenticity of caller ID information."},
+  {"mitigation": "Educate users about the risks of trusting caller ID information and encourage skepticism when receiving unexpected calls."},
+  {"mitigation": "Deploy anti-spoofing technologies and call blocking solutions to detect and prevent caller ID spoofing attempts."}
+  ]
+ },
+ {
+  "threadid": "76",
+  "threaduid":"NBqP3WNqeae9sRel",
+  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+  "threatname": "Camfecting",
+  "threatdesc": "Camfecting is the unauthorized access and control of a victim's webcam or camera-enabled device by hackers, often for spying or surveillance purposes.",
+  "threatmitigation": [
+  {"mitigation": "Cover or disconnect webcams when not in use to prevent unauthorized access. Regularly update device firmware and security patches to mitigate known vulnerabilities exploited by camfecting attacks."},
+  {"mitigation": "Utilize endpoint security solutions with webcam protection features to detect and block unauthorized access attempts."}
+  ]
+ },
+ {
+  "threadid": "77",
+  "threaduid":"0rrSdYM5BVrtrz0X",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Car Hacking",
+  "threatdesc": "Car hacking involves exploiting vulnerabilities in modern vehicles' electronic control units (ECUs) or onboard computer systems to gain unauthorized access and manipulate vehicle functions.",
+  "threatmitigation": [
+  {"mitigation": "Implement secure coding practices and conduct security assessments of vehicle firmware and software."},
+  {"mitigation": "Segment vehicle networks and implement network segmentation to isolate critical systems from non-essential functions."},
+  {"mitigation": "Deploy intrusion detection and prevention systems (IDPS) to detect and block suspicious activities or unauthorized access attempts in vehicle networks."}
+  ]
+ },
+ {
+  "threadid": "78",
+  "threaduid":"46BLSFwO1qWewlJl",
+  "threattarget": {"Class": "Technology"},
+  "threatname": "Certificate Transparency Abuse",
+  "threatdesc": "Certificate transparency abuse refers to the exploitation of weaknesses in certificate transparency logs to issue fraudulent digital certificates or evade detection.",
+  "threatmitigation": [
+  {"mitigation": "Monitor certificate transparency logs for suspicious or unauthorized certificate issuance activities."},
+  {"mitigation": "Enforce strict certificate validation policies and reject certificates not compliant with certificate transparency requirements."},
+  {"mitigation": "Educate CAs & domain owners about the importance of maintaining transparency logs and promptly reporting anomalies or unauthorized certificate issuances."}
+  ]
+ },
+ {
+  "threadid": "79",
+  "threaduid":"1R8CR3aCh0b8UvLRR6",
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -643,11 +879,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -655,11 +891,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -667,11 +903,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -679,11 +915,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -691,11 +927,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -703,11 +939,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -715,11 +951,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -727,11 +963,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -739,11 +975,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -751,11 +987,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -763,11 +999,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -775,11 +1011,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -787,11 +1023,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -799,11 +1035,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -811,11 +1047,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -823,11 +1059,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -835,11 +1071,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -847,11 +1083,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -859,11 +1095,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -871,11 +1107,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -883,11 +1119,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -895,11 +1131,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -907,11 +1143,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -919,11 +1155,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -931,11 +1167,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -943,11 +1179,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -955,11 +1191,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -967,11 +1203,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -979,11 +1215,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -991,11 +1227,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
+  {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]
@@ -1003,275 +1239,11 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "",
   "threatmitigation": [
-    {"mitigation": ""},
   {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
-  {"mitigation": ""},
-  {"mitigation": ""}
-  ]
- },
- {
-  "threadid": "<id>",
-  "threaduid":"<>",
- "threattarget": {"Class": "People"},
-  "threatname": "Side channel attacks",
-  "threatdesc": "",
-  "threatmitigation": [
-    {"mitigation": ""},
   {"mitigation": ""},
   {"mitigation": ""}
   ]

@@ -16,7 +16,7 @@
  {
   "threadid": "2",
   "threaduid":"2vqD8aV4liZU2LT3",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "DNS Tunneling",
   "threatdesc": "DNS tunneling is a technique used by attackers to bypass network security controls by encapsulating data within DNS queries and responses, allowing them to exfiltrate data or communicate with command-and-control servers covertly.",
   "threatmitigation": [
@@ -27,7 +27,7 @@
  {
   "threadid": "3",
   "threaduid":"tsMO7zqrCw7OzAPJ",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Cross-Site Request Forgery (CSRF)",
   "threatdesc": "Cross-Site Request Forgery (CSRF) attacks exploit the trust relationship between a user's browser and a web application to execute unauthorized actions on behalf of the user without their consent.",
   "threatmitigation": [
@@ -38,7 +38,7 @@
  {
   "threadid": "4",
   "threaduid":"CjCe8Izj5f0rJLeQ",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Data manipulation attacks",
   "threatdesc": " involve unauthorized alterations or modifications to data stored in databases, files, or application repositories, compromising data integrity and reliability.",
   "threatmitigation": [
@@ -49,7 +49,7 @@
  {
   "threadid": "5",
   "threaduid":"3ny0yhrgy1lr3e7h",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "IoT firmware vulnerabilities",
   "threatdesc": "IoT firmware vulnerabilities refer to security flaws or weaknesses present in the firmware of Internet of Things (IoT) devices, which can be exploited by attackers to compromise device security or privacy.",
   "threatmitigation": [
@@ -60,7 +60,7 @@
  {
   "threadid": "6",
   "threaduid":"7uILk9I15CfHJNOy",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Side channel attacks",
   "threatdesc": "Side channel attacks exploit unintended information leakage from physical or implementation characteristics of computing systems to extract sensitive information or cryptographic keys",
   "threatmitigation": [
@@ -71,7 +71,7 @@
  {
   "threadid": "7",
   "threaduid":"BJZUpgbXTDr0DsyE",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "SIM Swapping",
   "threatdesc": "SIM swapping, also known as SIM hijacking, is a social engineering technique used by attackers to fraudulently transfer a victim's phone number to a SIM card under the attacker's control, allowing them to intercept calls, SMS messages, or two- factor authentication (2FA) codes.",
   "threatmitigation": [
@@ -81,7 +81,7 @@
  {
   "threadid": "8",
   "threaduid":"UcUc7O96tJuTsGVV",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Ransomware",
   "threatdesc": "Ransomware is a type of malware that encrypts files or locks users out of their systems, demanding payment (usually in cryptocurrency) for decryption or restoration of access.",
   "threatmitigation": [
@@ -92,7 +92,7 @@
  {
   "threadid": "9",
   "threaduid":"cDp7LvjnvwkXJDUD",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Phishing Attacks",
   "threatdesc": "Phishing attacks involve fraudulent attempts to obtain sensitive information such as usernames, passwords, and financial details by posing as a trustworthy entity.",
   "threatmitigation": [
@@ -103,7 +103,7 @@
  {
   "threadid": "10",
   "threaduid":"EEnfP6TUm7lWvO1K",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Distributed Denial of Service (DDoS) Attacks",
   "threatdesc": "DDoS attacks overwhelm a targeted system or network with a flood of traffic, disrupting normal operation and causing downtime. Attackers utilize botnets or other means to generate massive amounts of traffic, exhausting the target's resources.",
   "threatmitigation": [
@@ -114,7 +114,7 @@
  {
   "threadid": "11",
   "threaduid":"QXknU3iNg7nB9ZtZ",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Insider Threats",
   "threatdesc": "Insider threats involve malicious or negligent actions by individuals within an organization, posing risks to data security and integrity. Employees, contractors, or partners may intentionally or unintentionally compromise sensitive information or systems.",
   "threatmitigation": [
@@ -126,7 +126,7 @@
  {
   "threadid": "12",
   "threaduid":"7wHQEPrTp8d4PZ3t",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Zero-Day Exploits",
   "threatdesc": "Zero-day exploits target previously unknown vulnerabilities in software or hardware, giving attackers the advantage of exploiting systems before a patch is available. Attackers discover and exploit vulnerabilities before developers can release patches or updates to fix them.",
   "threatmitigation": [
@@ -138,7 +138,7 @@
  {
   "threadid": "13",
   "threaduid":"uhUdUriPYNQKefI7",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Data Breaches",
   "threatdesc": "Data breaches involve unauthorized access to sensitive or confidential information, potentially exposing individuals' personal data or intellectual property. Weak security measures, insider threats, or targeted attacks can lead to unauthorized access and exfiltration of data.",
   "threatmitigation": [
@@ -150,7 +150,7 @@
  {
   "threadid": "14",
   "threaduid":"6GWNmpkG54gmmKdy",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Malware",
   "threatdesc": "Malware encompasses various types of malicious software designed to disrupt, damage, or gain unauthorized access to computer systems or networks. Malware can be introduced through infected files, malicious websites, or vulnerabilities in software or operating systems.",
   "threatmitigation": [
@@ -162,7 +162,7 @@
  {
   "threadid": "15",
   "threaduid":"ylLHVYo4i3qjC6OJ",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Advanced Persistent Threats (APTs)",
   "threatdesc": "APTs are sophisticated, long-term cyber attacks orchestrated by skilled adversaries to infiltrate and maintain unauthorized access to targeted networks or systems.",
   "threatmitigation": [
@@ -174,7 +174,7 @@
  {
   "threadid": "16",
   "threaduid":"c4jv1f01lufw0mpf",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Supply Chain Attacks",
   "threatdesc": "Supply chain attacks target the software supply chain, exploiting vulnerabilities in third-party software or services to compromise the systems of end users or organizations",
   "threatmitigation": [
@@ -186,7 +186,7 @@
  {
   "threadid": "17",
   "threaduid":"vi6AtPystc7xpFDQ",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Cryptojacking",
   "threatdesc": "Cryptojacking involves the unauthorized use of someone else's computing resources to mine cryptocurrency, often done by infecting computers or websites with malware.",
   "threatmitigation": [
@@ -198,7 +198,7 @@
  {
   "threadid": "18",
   "threaduid":"j1tNUuRuoFa0n7dX",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Man-in-the-Middle (MitM) Attacks",
   "threatdesc": "MitM attacks involve intercepting communication between two parties to eavesdrop, manipulate, or impersonate either party, compromising the confidentiality and integrity of data.",
   "threatmitigation": [
@@ -221,7 +221,7 @@
  {
   "threadid": "20",
   "threaduid":"oUvuzjtaELKPtTEx",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Fileless Malware",
   "threatdesc": "Fileless malware operates in memory without leaving traces on disk, making it difficult to detect using traditional antivirus or anti-malware solutions. Attackers exploit vulnerabilities in legitimate software to execute malicious code directly in memory, bypassing file-based detection methods.",
   "threatmitigation": [
@@ -233,7 +233,7 @@
  {
   "threadid": "21",
   "threaduid":"2ZiiP8SjuoC5Tcpn",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "IoT Botnets",
   "threatdesc": "IoT botnets consist of compromised IoT devices infected with malware and controlled by a central command-and-control (C&C) server to orchestrate large-scale attacks, such as DDoS attacks.",
   "threatmitigation": [
@@ -245,7 +245,7 @@
  {
   "threadid": "22",
   "threaduid":"lrHgI6yVglMzzjiN",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Cross-Site Scripting (XSS) Attacks",
   "threatdesc": "XSS attacks involve injecting malicious scripts into web pages viewed by other users, allowing attackers to execute scripts in the context of their victims' browsers.",
   "threatmitigation": [
@@ -269,7 +269,7 @@
  {
   "threadid": "24",
   "threaduid":"5ut1VyNz4uKSqYdO",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Data Leakage",
   "threatdesc": "Data leakage occurs when sensitive or confidential information is unintentionally or maliciously disclosed to unauthorized parties, compromising data privacy and integrity.",
   "threatmitigation": [
@@ -292,7 +292,7 @@
  {
   "threadid": "26",
   "threaduid":"2ViInjinIZpQ7mXH",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Mobile Malware",
   "threatdesc": "Mobile malware refers to malicious software specifically designed to target mobile devices, such as smartphones and tablets, compromising their security and privacy.",
   "threatmitigation": [
@@ -304,7 +304,7 @@
  {
   "threadid": "27",
   "threaduid":"KIGZTDWBTR7SZ2d3",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "AI-Powered Cyber Attacks",
   "threatdesc": "AI-powered cyber attacks leverage AI and ML algorithms to automate and enhance the capabilities of traditional cyber attacks, making them more sophisticated and evasive.",
   "threatmitigation": [
@@ -316,7 +316,7 @@
  {
   "threadid": "28",
   "threaduid":"c5vRBk1xlNvl1GAm",
- "threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "DNS hijacking",
   "threatdesc": "DNS hijacking involves redirecting DNS queries to malicious servers controlled by attackers, enabling them to intercept and manipulate internet traffic, redirect users to phishing sites, or launch other malicious activities.",
   "threatmitigation": [
@@ -328,7 +328,7 @@
  {
   "threadid": "29",
   "threaduid":"pOGpSuMpY3xBhfpn",
-   "threattarget": {"Class": "People"},
+    "threattarget": {"Class": "People"},
   "threatname": "Physical Attacks on Infrastructure",
   "threatdesc": "Physical attacks on infrastructure involve sabotaging or damaging critical systems, facilities, or equipment through physical means, such as vandalism, theft, or tampering.",
   "threatmitigation": [
@@ -339,7 +339,7 @@
  {
   "threadid": "30",
   "threaduid":"JKuu4LQ1vc3znmHU",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Cyber Espionage",
   "threatdesc": "Cyber Espionage",
   "threatmitigation": [
@@ -350,7 +350,7 @@
  {
   "threadid": "31",
   "threaduid":"lagJVCXe6mIpIVDq",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "AI-Powered Deepfakes",
   "threatdesc": "AI-powered deepfakes use artificial intelligence algorithms to generate highly realistic fake images, videos, or audio recordings, often used for disinformation, fraud, or blackmail purposes.",
   "threatmitigation": [
@@ -362,7 +362,7 @@
  {
   "threadid": "32",
   "threaduid":"EKaag4CnmF3Y8QAF",
-   "threattarget": {"Class": "Technology"},
+    "threattarget": {"Class": "Technology"},
   "threatname": "File Encryption Trojans",
   "threatdesc": "File encryption trojans, also known as cryptoransomware, encrypt files on a victim's system and demand a ransom payment in exchange for the decryption key, extorting money from individuals or organizations.",
   "threatmitigation": [
@@ -373,7 +373,7 @@
  {
   "threadid": "33",
   "threaduid":"bvorGvOJU6bqeyKV",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Credential Stuffing Attacks",
   "threatdesc": "Credential stuffing attacks involve using large sets of stolen usernames and passwords to gain unauthorized access to user accounts across various online services and platforms, exploiting password reuse and weak authentication practices.",
   "threatmitigation": [
@@ -384,7 +384,7 @@
  {
   "threadid": "34",
   "threaduid":"ae4NHTK1dxpaR4Vn",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Bluetooth Impersonation Attacks",
   "threatdesc": "Bluetooth impersonation attacks involve impersonating legitimate Bluetooth devices to establish unauthorized connections and gain access to target systems or services.",
   "threatmitigation": [
@@ -396,7 +396,7 @@
  {
   "threadid": "35",
   "threaduid":"E2VmRGkwfzwW6t3N",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "USB-Based Attacks",
   "threatdesc": "USB-based attacks involve exploiting vulnerabilities in USB devices or ports to infect computers, steal sensitive information, or deliver malware payloads, exploiting the convenience and ubiquity of USB technology.",
   "threatmitigation": [
@@ -407,7 +407,7 @@
  {
   "threadid": "36",
   "threaduid":"BGtInBqvWmeSq2ID",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Formjacking Attacks",
   "threatdesc": "Formjacking attacks involve injecting malicious code into e-commerce websites to steal payment card details entered by users during online transactions, compromising their financial information.",
   "threatmitigation": [
@@ -418,7 +418,7 @@
  {
   "threadid": "37",
   "threaduid":"39EMcUFjbwqAQlcv",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Watering Hole Attacks",
   "threatdesc": "Watering hole attacks involve compromising legitimate websites frequented by targeted individuals or organizations and injecting malicious code to infect visitors' devices with malware, exploiting trust and familiarity.",
   "threatmitigation": [
@@ -429,7 +429,7 @@
  {
   "threadid": "38",
   "threaduid":"d2NkspJDQ1dynkJy",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Supply Chain Compromise",
   "threatdesc": "Supply chain compromise involves infiltrating and tampering with the software supply chain, infecting legitimate software or components distributed to end users with malware or backdoors, compromising their security.",
   "threatmitigation": [
@@ -440,7 +440,7 @@
  {
   "threadid": "39",
   "threaduid":"IiR53H1N1mEWJPaU",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "Voice Phishing (Vishing)",
   "threatdesc": "Voice phishing (vishing) attacks involve using phone calls or voice messages to deceive individuals into disclosing sensitive information, such as passwords, personal identification numbers (PINs), or financial details, over the phone.",
   "threatmitigation": [
@@ -451,7 +451,7 @@
  {
   "threadid": "40",
   "threaduid":"g5a7FS1ucE8oYBQS",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Deep Packet Inspection (DPI) Evasion",
   "threatdesc": "Deep Packet Inspection (DPI) evasion techniques involve circumventing network security measures, such as firewalls or intrusion detection/prevention systems, by obfuscating or encrypting malicious traffic to evade detection.",
   "threatmitigation": [
@@ -462,7 +462,7 @@
  {
   "threadid": "41",
   "threaduid":"<>",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Browser-based Cryptojacking",
   "threatdesc": "Browser-based cryptojacking involves leveraging JavaScript-based cryptocurrency mining scripts embedded in websites to hijack visitors' CPU resources and mine cryptocurrency without their consent or knowledge.",
   "threatmitigation": [
@@ -473,7 +473,7 @@
  {
   "threadid": "42",
   "threaduid":"Sb735ULdwjPM5OdX",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Simultaneous Multithreading (SMT) Side-Channel Attacks",
   "threatdesc": "Simultaneous Multithreading (SMT) side-channel attacks exploit hardware vulnerabilities and microarchitectural flaws in processors to leak sensitive information across CPU cores sharing the same physical core resources.",
   "threatmitigation": [
@@ -483,7 +483,7 @@
  {
   "threadid": "43",
   "threaduid":"944fMnV3Mf8lEIzg",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Firmware Vulnerabilities",
   "threatdesc": "Firmware vulnerabilities refer to security weaknesses and exploitable flaws present in the low-level software embedded in hardware devices, such as BIOS, UEFI, or device firmware, which can be exploited to compromise system integrity and security.",
   "threatmitigation": [
@@ -494,7 +494,7 @@
  {
   "threadid": "44",
   "threaduid":"rilQsc18QKvq6AIc",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Mobile App Spoofing",
   "threatdesc": "Mobile app spoofing involves creating fake or malicious applications that impersonate legitimate apps to deceive users into downloading and installing them, potentially leading to data theft, financial fraud, or device compromise.",
   "threatmitigation": [
@@ -505,7 +505,7 @@
  {
   "threadid": "45",
   "threaduid":"afhuwBaVO57Y0Mvd",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Cloud Service Misconfiguration",
   "threatdesc": "Cloud service misconfiguration occurs when cloud resources, storage buckets, databases, or server instances are improperly configured, exposing sensitive data, assets, or infrastructure to unauthorized access, data breaches, or exploitation.",
   "threatmitigation": [
@@ -515,7 +515,7 @@
  {
   "threadid": "46",
   "threaduid":"2trthmlM77pZw8Z9",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Data Exfiltration through Stenography",
   "threatdesc": "Data exfiltration through steganography involves concealing sensitive information or covert communications within digital images, audio files, or other media objects to evade detection and exfiltrate data from compromised systems or networks.",
   "threatmitigation": [
@@ -525,7 +525,7 @@
  {
   "threadid": "47",
   "threaduid":"CCJ6HFcSMeksCPTT",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Adversarial Machine Learning Attacks",
   "threatdesc": "Adversarial machine learning attacks manipulate or deceive machine learning models by exploiting vulnerabilities in the model's training data or algorithms.",
   "threatmitigation": [
@@ -536,7 +536,7 @@
  {
   "threadid": "48",
   "threaduid":"GUYxpcFKxWibavv6",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "App Store Fraud",
   "threatdesc": "App store fraud involves manipulation of app rankings, reviews, or downloads to deceive users or game algorithms for financial gain or reputation.",
   "threatmitigation": [
@@ -547,7 +547,7 @@
  {
   "threadid": "49",
   "threaduid":"l0R3oZwl1ZE3soLC",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Insufficient Security Patching",
   "threatdesc": "Insufficient security patching refers to the failure to apply timely updates, patches, or fixes to address known vulnerabilities and security flaws in software, systems, or devices, exposing them to exploitation by attackers.",
   "threatmitigation": [
@@ -557,7 +557,7 @@
  {
   "threadid": "50",
   "threaduid":"<>",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Automated Brute Force Attacks",
   "threatdesc": "Automated brute force attacks systematically guess passwords or authentication credentials using automated tools to gain unauthorized access to accounts or systems.",
   "threatmitigation": [
@@ -569,7 +569,7 @@
  {
   "threadid": "51",
   "threaduid":"KpnHjLlE1t4tQQif",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Blockchain Vulnerabilities",
   "threatdesc": "Blockchain vulnerabilities refer to weaknesses or flaws in blockchain networks or protocols that can be exploited by attackers to compromise the integrity, confidentiality, or availability of decentralized systems.",
   "threatmitigation": [
@@ -581,7 +581,7 @@
  {
   "threadid": "52",
   "threaduid":"ysLktd1CEF7kuRzv",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Whaling Attacks",
   "threatdesc": "Whaling attacks, also known as CEO fraud or Business Email Compromise (BEC), target high-profile individuals or executives within organizations, impersonating them to deceive employees into transferring funds, disclosing sensitive information, or performing fraudulent actions.",
   "threatmitigation": [
@@ -591,7 +591,7 @@
  {
   "threadid": "53",
   "threaduid":"wSxEylwSqSq3yx9n",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Logic Bombs",
   "threatdesc": "Logic bombs are malicious code snippets or software components embedded within legitimate applications, scripts, or systems, programmed to execute a destructive action or trigger a malicious payload when specific conditions or triggers are met.",
   "threatmitigation": [
@@ -601,7 +601,7 @@
  {
   "threadid": "54",
   "threaduid":"S4glQPUWbHuYNIPD",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "File Encryption Ransomware",
   "threatdesc": "File encryption ransomware is a type of malicious software that encrypts files or entire systems, rendering them inaccessible to users until a ransom is paid to the attackers, who promise to provide the decryption key upon payment.",
   "threatmitigation": [
@@ -611,7 +611,7 @@
  {
   "threadid": "55",
   "threaduid":"0bdJ9QebEtDCkokQ",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Biometric Spoofing",
   "threatdesc": "Biometric spoofing, also known as biometric presentation attacks, involves the use of fake biometric data, such as fingerprints, facial images, or iris scans, to deceive biometric authentication systems and gain unauthorized access to secured devices, applications, or facilities.",
   "threatmitigation": [
@@ -621,7 +621,7 @@
  {
   "threadid": "56",
   "threaduid":"z9QHlbIXTdQLy6f7",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Eavesdropping (Passive Surveillance)",
   "threatdesc": "Eavesdropping, also known as passive surveillance, involves unauthorized interception and monitoring of communications, such as network traffic, phone calls, or wireless transmissions, with the aim of gathering sensitive information or intelligence without the knowledge or consent of the parties involved.",
   "threatmitigation": [
@@ -631,7 +631,7 @@
  {
   "threadid": "57",
   "threaduid":"CWfXct8oOwzuwzoP",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "Voice Assistant Exploitation",
   "threatdesc": "Voice assistant exploitation refers to cyber attacks targeting voice-activated virtual assistants, such as Amazon Alexa, Google Assistant, or Apple Siri, to manipulate devices, extract sensitive information, or compromise user privacy through voice commands or audio interactions.",
   "threatmitigation": [
@@ -641,7 +641,7 @@
  {
   "threadid": "58",
   "threaduid":"XniYHFav0zrlbA5D",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Malvertising (Malicious Advertising)",
   "threatdesc": "Malvertising, short for malicious advertising, involves the distribution of malicious code, exploit kits, or phishing scams through online advertisements displayed on legitimate websites, exploiting vulnerabilities in ad networks, ad exchanges, or web browsers to compromise visitor devices.",
   "threatmitigation": [
@@ -651,7 +651,7 @@
  {
   "threadid": "59",
   "threaduid":"L74aj7HYL91r1Hzd",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "5G Network Vulnerabilities",
   "threatdesc": "5G network vulnerabilities refer to security weaknesses, risks, or exposures inherent in 5th generation cellular networks, including infrastructure components, protocols, or deployment architectures, which adversaries may exploit to launch cyber attacks, intercept communications, or compromise network integrity.",
   "threatmitigation": [
@@ -661,7 +661,7 @@
  {
   "threadid": "60",
   "threaduid":"ScRsKWIRlrZeklOF",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Credential Theft via Keylogging",
   "threatdesc": "Credential theft via keylogging involves capturing and recording user keystrokes, login credentials, or sensitive information entered via keyboards, virtual keyboards, or touchscreen interfaces, compromising user privacy and security.",
   "threatmitigation": [
@@ -671,7 +671,7 @@
  {
   "threadid": "61",
   "threaduid":"kUiPImhS01y7q27s",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Backdoor Attacks",
   "threatdesc": "Backdoor attacks involve the insertion of unauthorized access points into software, systems, or networks, enabling attackers to bypass security controls and gain persistent access for malicious purposes.",
   "threatmitigation": [
@@ -682,7 +682,7 @@
  {
   "threadid": "62",
   "threaduid":"Hzqagsd5pYB6BeeG",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Smart Contract Vulnerabilities",
   "threatdesc": "Smart contract vulnerabilities are weaknesses or flaws in blockchain-based smart contracts, allowing attackers to exploit coding errors, logic flaws, or design weaknesses to steal cryptocurrency, manipulate transactions, or disrupt operations.",
   "threatmitigation": [
@@ -693,7 +693,7 @@
  {
   "threadid": "63",
   "threaduid":"r8cXcieFjL3kQkFl",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Typosquatting  Attacks",
   "threatdesc": "Typosquatting attacks involve registering domain names similar to legitimate websites or brands but containing typographical errors or misspellings, with the intent to deceive users and exploit their mistakes for malicious purposes.",
   "threatmitigation": [
@@ -703,7 +703,7 @@
  {
   "threadid": "64",
   "threaduid":"BYPF5iunTRmxef7U",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Zero-Click Exploits",
   "threatdesc": "Zero-click exploits are cyber attacks that require no user interaction or engagement to compromise a target device or system, exploiting vulnerabilities in software, protocols, or hardware components to execute arbitrary code or gain unauthorized access silently.",
   "threatmitigation": [
@@ -713,7 +713,7 @@
  {
   "threadid": "65",
   "threaduid":"bQafhSKhfwrkSLdd",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Rogue Software",
   "threatdesc": "Rogue software, also known as scareware or fake antivirus, refers to malicious software or applications that masquerade as legitimate security tools or utilities, deceiving users into purchasing unnecessary software licenses or providing sensitive information.",
   "threatmitigation": [
@@ -723,7 +723,7 @@
  {
   "threadid": "66",
   "threaduid":"AUQn1PLbwQ6m3HcO",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "USB Rubber Ducky Attacks",
   "threatdesc": "USB Rubber Ducky attacks involve the use of specially crafted USB devices, such as keystroke injection tools or HID (Human Interface Device) emulators, to mimic keyboard input and execute malicious commands or payloads on target systems.",
   "threatmitigation": [
@@ -733,7 +733,7 @@
  {
   "threadid": "67",
   "threaduid":"89G0P7pxyBNkO7NX",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "Remote Code Execution (RCE) Vulnerabilities",
   "threatdesc": "Remote Code Execution (RCE) vulnerabilities allow attackers to execute arbitrary code or commands on target systems remotely, often resulting from security flaws in software applications, web servers, or network protocols that enable unauthorized code execution.",
   "threatmitigation": [
@@ -743,7 +743,7 @@
  {
   "threadid": "68",
   "threaduid":"f8odbBrBO8iY1zCv",
- "threattarget": {"Class": "Technology"},
+  "threattarget": {"Class": "Technology"},
   "threatname": "Router Exploitation",
   "threatdesc": "Router exploitation involves the compromise of network routers, gateways, or access points by attackers to gain unauthorized access, intercept traffic, or launch various types of cyber attacks targeting connected devices and users.",
   "threatmitigation": [
@@ -754,7 +754,7 @@
  {
   "threadid": "69",
   "threaduid":"FKBqJnMlxncnPN9a",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Bluetooth Attacks",
   "threatdesc": "Bluetooth attacks exploit vulnerabilities in Bluetooth-enabled devices, such as smartphones, laptops, or IoT devices, to gain unauthorized access, steal data, or compromise device functionality through wireless communication channels.",
   "threatmitigation": [
@@ -765,7 +765,7 @@
  {
   "threadid": "70",
   "threaduid":"o7PKgiVygofOZKEY",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Data Interception (Data-in-Transit Attacks)",
   "threatdesc": "Data interception, also known as data-in-transit attacks, involves the unauthorized interception, eavesdropping, or monitoring of data as it travels across networks, communication channels, or wireless connections, potentially exposing sensitive information to unauthorized parties.",
   "threatmitigation": [
@@ -775,7 +775,7 @@
  {
   "threadid": "71",
   "threaduid":"p3mOrTCkg6FfWdXH",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Virtual Private Network (VPN) Exploitation",
   "threatdesc": "VPN exploitation involves exploiting vulnerabilities in VPN services or protocols to bypass network security controls, intercept encrypted traffic, or compromise VPN endpoints for unauthorized access or data exfiltration.",
   "threatmitigation": [
@@ -786,7 +786,7 @@
  {
   "threadid": "72",
   "threaduid":"pixWMiLZEnZ25cWP",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Malware-as-a-Service (MaaS)",
   "threatdesc": "Malware-as-a-Service (MaaS) refers to the commercialization of malware, where cybercriminals offer malicious software, tools, or services for sale or rent to other malicious actors, enabling them to launch cyber attacks without the need for technical expertise or infrastructure.",
   "threatmitigation": [
@@ -796,7 +796,7 @@
  {
   "threadid": "73",
   "threaduid":"Hd9dRorZWqWGtL9t",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Browser Extension Vulnerabilities",
   "threatdesc": "Browser extension vulnerabilities are security weaknesses in third-party browser extensions that can be exploited by attackers to compromise browser security and execute arbitrary code.",
   "threatmitigation": [
@@ -808,7 +808,7 @@
  {
   "threadid": "74",
   "threaduid":"tOuRaJYrdtK7YDrK",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Cache Poisoning",
   "threatdesc": "Cache poisoning is a cyber attack where attackers inject false data into a cache to compromise the integrity of cached information or redirect users to malicious websites.",
   "threatmitigation": [
@@ -820,7 +820,7 @@
  {
   "threadid": "75",
   "threaduid":"frsBUzlsDTS2A9e9",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Caller ID Spoofing",
   "threatdesc": "Caller ID spoofing is a technique used by attackers to falsify the caller ID information displayed on a recipient's phone, often to deceive or defraud individuals.",
   "threatmitigation": [
@@ -832,7 +832,7 @@
  {
   "threadid": "76",
   "threaduid":"NBqP3WNqeae9sRel",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Camfecting",
   "threatdesc": "Camfecting is the unauthorized access and control of a victim's webcam or camera-enabled device by hackers, often for spying or surveillance purposes.",
   "threatmitigation": [
@@ -843,7 +843,7 @@
  {
   "threadid": "77",
   "threaduid":"0rrSdYM5BVrtrz0X",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Car Hacking",
   "threatdesc": "Car hacking involves exploiting vulnerabilities in modern vehicles' electronic control units (ECUs) or onboard computer systems to gain unauthorized access and manipulate vehicle functions.",
   "threatmitigation": [
@@ -855,7 +855,7 @@
  {
   "threadid": "78",
   "threaduid":"46BLSFwO1qWewlJl",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Certificate Transparency Abuse",
   "threatdesc": "Certificate transparency abuse refers to the exploitation of weaknesses in certificate transparency logs to issue fraudulent digital certificates or evade detection.",
   "threatmitigation": [
@@ -867,7 +867,7 @@
  {
   "threadid": "79",
   "threaduid":"1R8CR3aCh0b8UvLRR6",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Clipboard Hijacking",
   "threatdesc": "Clipboard hijacking is a type of cyber attack where malware or malicious scripts intercept and modify clipboard content, often to steal sensitive information such as passwords or cryptocurrency addresses.",
   "threatmitigation": [
@@ -879,7 +879,7 @@
  {
   "threadid": "80",
   "threaduid":"ZrBVUbVT7qXM2KD2",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Click Injection Fraud",
   "threatdesc": "Click injection fraud is a form of mobile ad fraud where attackers manipulate mobile apps to generate fake ad clicks attributed to legitimate user interactions, leading to financial losses for advertisers.",
   "threatmitigation": [
@@ -890,7 +890,7 @@
  {
   "threadid": "81",
   "threaduid":"IolftGNFBRdCfaj7",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Command Injection",
   "threatdesc": "Command injection is a type of cyber attack where attackers exploit vulnerabilities in web applications or operating systems to execute arbitrary commands on the underlying system.",
   "threatmitigation": [
@@ -902,7 +902,7 @@
  {
   "threadid": "82",
   "threaduid":"6PDXYHE2M5ZBDvxm",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Container Escapes",
   "threatdesc": "Container escapes occur when attackers exploit vulnerabilities in containerization platforms or misconfigurations to break out of containerized environments and gain unauthorized access to the underlying host system.",
   "threatmitigation": [
@@ -913,7 +913,7 @@
  {
   "threadid": "83",
   "threaduid":"3aUFISUyBch7r2jE",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Content Security Policy (CSP) Bypass",
   "threatdesc": "Content Security Policy (CSP) bypass is a technique used by attackers to circumvent security policies implemented by web applications, allowing them to execute malicious scripts or inject unauthorized content.",
   "threatmitigation": [
@@ -924,7 +924,7 @@
  {
   "threadid": "84",
   "threaduid":"ZsmZAFjkQWywFuJX",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Data Destruction Attacks",
   "threatdesc": "Data destruction attacks involve the deliberate destruction or deletion of data assets, rendering them permanently inaccessible or irrecoverable, often causing significant disruption to businesses or individuals.",
   "threatmitigation": [
@@ -936,7 +936,7 @@
  {
   "threadid": "85",
   "threaduid":"7eSlkT7xqOXRFVeN",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Dark Web Marketplaces",
   "threatdesc": "Dark web marketplaces are hidden online platforms where illegal goods and services, including drugs, stolen data, malware, and hacking tools, are bought and sold anonymously using cryptocurrencies.",
   "threatmitigation": [
@@ -947,7 +947,7 @@
  {
   "threadid": "86",
   "threaduid":"yC2ysQT3XsMeV2mS",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Digital Certificate Spoofing",
   "threatdesc": "Digital certificate spoofing involves the creation or manipulation of digital certificates to impersonate legitimate entities or websites, allowing attackers to conduct phishing, man-in-the-middle, or other malicious activities.",
   "threatmitigation": [
@@ -958,7 +958,7 @@
  {
   "threadid": "87",
   "threaduid":"odo1fYTQStO3Tz3f",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "DNSSEC Misconfigurations",
   "threatdesc": "DNSSEC misconfigurations occur when domain name system security extensions (DNSSEC) are improperly configured, leading to vulnerabilities that could be exploited by attackers to conduct DNS spoofing or cache poisoning attacks.",
   "threatmitigation": [
@@ -969,7 +969,7 @@
  {
   "threadid": "88",
   "threaduid":"dWMNIhNvUiMPA21Z",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Domain Generation Algorithm (DGA) Attacks",
   "threatdesc": "Domain Generation Algorithm (DGA) attacks involve the use of algorithms to generate a large number of domain names that malware can use to establish command and control (C&C) communication channels with botnets, making it difficult for security systems to block or detect malicious traffic.",
   "threatmitigation": [
@@ -979,7 +979,7 @@
  {
   "threadid": "89",
   "threaduid":"SyD7MpOTg8d2EkQm",
-  "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
+   "threattarget": [{"Class": "Technology"}, {"Class": "People"}],
   "threatname": "Email Spoofing",
   "threatdesc": "Email spoofing is a technique used by attackers to forge the sender's email address, making it appear as if the email originated from a legitimate source, often to deceive recipients into divulging sensitive information or performing malicious actions.",
   "threatmitigation": [
@@ -990,7 +990,7 @@
  {
   "threadid": "90",
   "threaduid":"2mWkrut0tQxTzp47",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Emulation Detection Evasion",
   "threatdesc": "Emulation detection evasion refers to techniques used by malware to detect and evade analysis environments, such as sandboxes or virtual machines, by identifying specific emulation artifacts or behaviors and altering their execution to avoid detection or analysis.",
   "threatmitigation": [
@@ -1001,7 +1001,7 @@
  {
   "threadid": "91",
   "threaduid":"HceEv3Y6u1OCAOS1",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Exploitation of Zero-Day Vulnerabilities",
   "threatdesc": "Exploitation of zero-day vulnerabilities involves attackers exploiting previously unknown security vulnerabilities in software or hardware systems to gain unauthorized access, execute arbitrary code, or perform other malicious actions before vendors release patches or security updates.",
   "threatmitigation": [
@@ -1012,7 +1012,7 @@
  {
   "threadid": "92",
   "threaduid":"iys29ywO52MsJpDP",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "GPS Spoofing",
   "threatdesc": "GPS spoofing is a cyber attack where attackers manipulate GPS signals to deceive GPS receivers, causing them to provide inaccurate location information, which can lead to navigation errors, disruptions in critical infrastructure, or physical harm.",
   "threatmitigation": [
@@ -1023,7 +1023,7 @@
  {
   "threadid": "93",
   "threaduid":"sWyoS0e1dVmzeTCY",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "HTTP Parameter Pollution (HPP)",
   "threatdesc": "HTTP Parameter Pollution (HPP) is a web security vulnerability where attackers manipulate HTTP request parameters to bypass input validation mechanisms, inject malicious payloads, or alter application behavior, leading to various attacks such as SQL injection or cross-site scripting (XSS).",
   "threatmitigation": [
@@ -1034,7 +1034,7 @@
  {
   "threadid": "94",
   "threaduid":"6Lv4w9FFAFBJMZWT",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Insecure  Deserialization",
   "threatdesc": "Insecure deserialization is a vulnerability where untrusted data is deserialized by an application, potentially leading to remote code execution, denial of service (DoS), or data tampering attacks if the deserialization process is not properly secured.",
   "threatmitigation": [
@@ -1045,7 +1045,7 @@
  {
   "threadid": "95",
   "threaduid":"yDrACcaB9DXg5NHV",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "Internet Routing Attacks",
   "threatdesc": "Internet routing attacks involve the manipulation of routing protocols or the Border Gateway Protocol (BGP) to redirect traffic, hijack IP addresses, or disrupt network connectivity, potentially leading to service outages, data interception, or traffic interception.",
   "threatmitigation": [
@@ -1056,7 +1056,7 @@
  {
   "threadid": "96",
   "threaduid":"IeVTLd8ojQvYzcVq",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "IoT Ransomware",
   "threatdesc": "IoT ransomware is a type of malware that targets Internet of Things (IoT) devices, encrypting device data or locking device functionality, and demanding a ransom payment in exchange for decryption keys or device control.",
   "threatmitigation": [
@@ -1067,7 +1067,7 @@
  {
   "threadid": "97",
   "threaduid":"AdFRpsmdO9n4HXKD",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "IoT Replay Attacks",
   "threatdesc": "IoT replay attacks involve capturing and replaying legitimate communication between IoT devices and backend servers to impersonate authorized users, bypass authentication mechanisms, or perform unauthorized actions.",
   "threatmitigation": [
@@ -1078,7 +1078,7 @@
  {
   "threadid": "98",
   "threaduid":"5nbkoMOPkjWst2lm",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Key Recovery Attacks",
   "threatdesc": "Key recovery attacks involve attempts to retrieve encryption keys from compromised or insecurely stored key repositories, enabling attackers to decrypt sensitive data, impersonate legitimate users, or perform unauthorized actions.",
   "threatmitigation": [
@@ -1089,7 +1089,7 @@
  {
   "threadid": "99",
   "threaduid":"7UotEW0SbiYvE7fa",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Live Migration Attacks",
   "threatdesc": "Live migration attacks target virtualized environments where live migration technologies are used to move virtual machines (VMs) between physical hosts, exploiting vulnerabilities in migration protocols or hypervisor configurations to gain unauthorized access or disrupt VM operations.",
   "threatmitigation": [
@@ -1100,7 +1100,7 @@
  {
   "threadid": "100",
   "threaduid":"FfFmlg13XoKUEdij",
-  "threattarget": {"Class": "Technology"},
+   "threattarget": {"Class": "Technology"},
   "threatname": "Memory Scraping Malware",
   "threatdesc": "Memory scraping malware, also known as RAM scrapers, target the volatile memory (RAM) of compromised systems to harvest sensitive data such as credit card numbers, passwords, or encryption keys from running processes or application memory spaces.",
   "threatmitigation": [
@@ -1111,7 +1111,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1123,7 +1123,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1135,7 +1135,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1147,7 +1147,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1159,7 +1159,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1171,7 +1171,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1183,7 +1183,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1195,7 +1195,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1207,7 +1207,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [
@@ -1219,7 +1219,7 @@
  {
   "threadid": "<id>",
   "threaduid":"<>",
-  "threattarget": {"Class": "People"},
+   "threattarget": {"Class": "People"},
   "threatname": "",
   "threatdesc": "",
   "threatmitigation": [

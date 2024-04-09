@@ -5,7 +5,7 @@
  {
   "threadid": "1",
   "threaduid": "O05TWf5vuGxIOLym",
-"threattarget": {"Class": "People"},
+  "threattarget": {"Class": "People"},
   "threatname": "Credential Phishing",
   "threatdesc": "Credential phishing is a type of cyber attack where attackers masquerade as legitimate entities to trick individuals into divulging sensitive information such as usernames, passwords, or financial data.",
   "threatmitigation": [
